@@ -25,9 +25,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include <signal.h>
 #include <unistd.h>
-#include <fcntl.h>
 #include <string.h>
 
 #define MAX_STAT_INFO_BYTES	50
