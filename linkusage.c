@@ -74,12 +74,12 @@ static int print_network_stat(const char *if_name, network_info_t type)
 
 		if( (rx >= 0 && rx < 1000) || (tx >= 0 && tx < 1000))
 		{
-			sprintf(stat_buf, "%s Rx %d b/s: Tx %d b/s",
+			sprintf(stat_buf, "%s: Rx %d b/s; Tx %d b/s",
 				if_name, rx, tx);
 		}
 		else
 		{
-			sprintf(stat_buf, "%s Rx %.2f Kb/s: Tx %.2f Kb/s",
+			sprintf(stat_buf, "%s: Rx %.2f Kb/s; Tx %.2f Kb/s",
 				if_name, (float) rx/1024, (float) tx/1024);
 		}
 
