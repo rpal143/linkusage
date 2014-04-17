@@ -1,0 +1,28 @@
+				Linkusage
+linkusage is small tool to get link speed of your network
+interface like wlan0, eth0, ppp0, etc.
+
+To compile -
+
+# make
+
+To install -
+
+# sudo make install
+
+
+How to use -
+
+You have specify network interface to get link speed.
+
+# linkusage ppp0
+ppp0: Rx 10.27 Kb/s; Tx 1.04 Kb/s
+
+
+It will keep updating a speed until terminated. In above
+output, Rx is a download speed and Tx is upload speed.
+
+
+For any bugs contact - Rahul Bedarkar <rahul.bedarkar89@gmail.com>
+
+This program is licensed under GNU GPL v3 for more info see COPYING
