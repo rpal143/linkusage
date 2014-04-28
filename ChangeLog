@@ -1,3 +1,21 @@
+commit 33756ca41c06cd5fbec5b948d67362f05cea38a3
+Author: Rahul Bedarkar <rahulbedarkar89@gmail.com>
+Date:   Mon Apr 28 21:26:25 2014 +0530
+
+    configure.ac: check for getline and sleep functions
+
+commit 93c9e68437afc77b177d46950450d295b63302d5
+Author: Rahul Bedarkar <rahulbedarkar89@gmail.com>
+Date:   Mon Apr 28 21:20:47 2014 +0530
+
+    Add .gitignore file
+
+commit 3f5a3e8b3f8053fd990688f3b246c710161ed293
+Author: Rahul Bedarkar <rahulbedarkar89@gmail.com>
+Date:   Mon Apr 28 21:19:22 2014 +0530
+
+    Update chnagelog file
+
 commit 71d5ebd4ab937f9e2d7928e1288f8c9d7bf6dc02
 Author: Rahul Bedarkar <rahulbedarkar89@gmail.com>
 Date:   Mon Apr 28 21:18:03 2014 +0530
