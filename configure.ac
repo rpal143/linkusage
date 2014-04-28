@@ -19,6 +19,8 @@ AC_CHECK_HEADERS([stdlib.h string.h unistd.h])
 AC_TYPE_SIZE_T
 
 # Checks for library functions.
+AC_CHECK_FUNC([getline])
+AC_CHECK_FUNC([sleep])
 
 AC_CONFIG_FILES([
 Makefile
