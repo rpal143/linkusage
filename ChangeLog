@@ -1,0 +1,46 @@
+commit 71d5ebd4ab937f9e2d7928e1288f8c9d7bf6dc02
+Author: Rahul Bedarkar <rahulbedarkar89@gmail.com>
+Date:   Mon Apr 28 21:18:03 2014 +0530
+
+    Make linkusage a autotools package
+
+commit 8279edde1ed1aad21e03a23d378c432ec410d7e7
+Author: Rahul Bedarkar <rahulbedarkar89@gmail.com>
+Date:   Thu Apr 17 14:35:54 2014 +0530
+
+    Add README file
+
+commit 6c9f43938b2895b3f0a80b3ecc78bc6f0e5b78dd
+Author: Rahul Bedarkar <rahulbedarkar89@gmail.com>
+Date:   Thu Apr 17 14:35:32 2014 +0530
+
+    Add COPYING file
+
+commit 2b2efbd557a9cdf12fc0329d152df24b9041f76c
+Author: Rahul Bedarkar <rahulbedarkar89@gmail.com>
+Date:   Thu Apr 17 14:24:21 2014 +0530
+
+    Makefile: Add install target in Makefile
+    and fix clean target
+
+commit 7795e69fc3704f8ffa0a321d293ed47c4872fecb
+Author: Rahul Bedarkar <rahulbedarkar89@gmail.com>
+Date:   Tue Apr 15 23:43:05 2014 +0530
+
+    Update output formatting
+    added colon (:) after interface name and semicolon (;) between Rx and Tx stats
+
+commit d509f5d307e6ed02081266d28efe49446bf3fc26
+Author: Rahul Bedarkar <rahulbedarkar89@gmail.com>
+Date:   Tue Apr 15 23:37:50 2014 +0530
+
+    Remove unused headers
+
+commit ceabbf81c44ceea8ce78e42b230782dcdc01199c
+Author: Rahul Bedarkar <rahulbedarkar89@gmail.com>
+Date:   Tue Apr 15 23:25:56 2014 +0530
+
+    Initial commit
+    
+    very basic working code to show network link speed.
+    yet to fix unknown issues.
