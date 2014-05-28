@@ -4,11 +4,13 @@ interface like wlan0, eth0, ppp0, etc.
 
 To compile -
 
+# ./configure
+
 # make
 
 To install -
 
-# sudo make install
+# make install
 
 
 How to use -
